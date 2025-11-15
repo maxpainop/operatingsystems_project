@@ -1,0 +1,8 @@
+# VS Code
+.vscode/
+!.vscode/settings.json
+
+# Node (if applicable)
+node_modules/
+dist/
+.env
