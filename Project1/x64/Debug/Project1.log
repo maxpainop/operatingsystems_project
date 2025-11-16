@@ -1,4 +1,9 @@
-﻿  producer_consumer.c
-  Project1.vcxproj -> D:\Documents-Motherdisk\study\operating systems\mini project\x64\Debug\Project1.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+﻿  main.c
+  producer_consumer.c
+D:\Documents-Motherdisk\study\operating systems\mini project\Project1\main.c(51,17): error C2371: 'program_end_ts': redefinition; different basic types
+      D:\Documents-Motherdisk\study\operating systems\mini project\Project1\main.h(68,25):
+      see declaration of 'program_end_ts'
+  
+D:\Documents-Motherdisk\study\operating systems\mini project\Project1\main.c(210,22): warning C4133: 'function': incompatible types - from 'timesspec *' to 'timespec *'
+D:\Documents-Motherdisk\study\operating systems\mini project\Project1\main.c(212,63): warning C4133: 'function': incompatible types - from 'timesspec *' to 'const timespec *'
+  Generating Code...

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\producer_consumer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\producer_consumer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{796879F1-CBD6-45C5-8C0B-4734D9D9159B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +30,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.h",
               "DocumentMoniker": "D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\main.h",
               "RelativeDocumentMoniker": "Project1\\main.h",
               "ToolTip": "D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\main.h",
               "RelativeToolTip": "Project1\\main.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-15T20:51:12.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\main.c",
               "RelativeDocumentMoniker": "Project1\\main.c",
               "ToolTip": "D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\main.c",
               "RelativeToolTip": "Project1\\main.c",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-15T20:16:38.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "producer_consumer.c",
               "DocumentMoniker": "D:\\Documents-Motherdisk\\study\\operating systems\\mini project\\Project1\\producer_consumer.c",
               "RelativeDocumentMoniker": "Project1\\producer_consumer.c",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Project1\\producer_consumer.c",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-15T20:16:40.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T20:16:40.396Z"
             }
           ]
         }
